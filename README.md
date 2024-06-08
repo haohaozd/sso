@@ -92,6 +92,7 @@ class MySSOServer extends Jasny\SSO\Server
 }
 ```
 
+等等
 The MySSOServer class can be used as controller in an MVC framework.
 
 Alternatively you can use MySSOServer as library class. In that case pass option `fail_exception` to the constructor.
